@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- To see how these attributes are used, please visit https://material.io/develop/android/theming/color/ -->
+    <style name="Base.Theme.Lol" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lol_green_500</item>
+        <item name="colorOnPrimary">@color/lol_yellow_500</item>
+        <item name="colorPrimaryDark">@color/lol_green_700</item>
+        <item name="colorOnSurface">@color/lol_black</item>
+        <item name="colorAccent">@color/lol_green_700</item>
+        <item name="colorSurface">@color/lol_gray_50</item>
+        <item name="colorSecondary">@color/lol_yellow_500</item>
+        <item name="android:colorBackground">@color/lol_green_500</item>
+    </style>
+
+    <style name="Theme.lol" parent="Base.Theme.Lol"/>
+
+    <style name="Theme.lol.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"/>
+
+</resources>

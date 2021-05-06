@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">osiwali_lol</string>
+
+
+    <string name="ranking_title">排行</string>
+    <string name="player_title">选手</string>
+    <string name="favorite_title">收藏</string>
+    <string name="my_title">我的</string>
+</resources>
