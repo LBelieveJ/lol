@@ -35,7 +35,7 @@ buildscript {
         uiAutomatorVersion = '2.2.0'
         viewPagerVersion = '1.0.0'
         workVersion = '2.1.0'
-
+        recycler_common_version='v4.0.6'
 
 
     }
